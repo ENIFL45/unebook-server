@@ -28,7 +28,7 @@ paths:
   /superadmin/create:
     post:
       tags:
-        - SuperAdmin
+        - SuperAdmin's
       summary: Create a superadmin
       security:
         - bearerAuth: []
