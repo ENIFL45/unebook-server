@@ -1,0 +1,11 @@
+# docker
+Dockerfile*
+docker-compose*
+
+# git
+.git
+.gitignore
+
+# npm
+node_modules
+package-lock.json
